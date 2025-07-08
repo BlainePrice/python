@@ -1,0 +1,22 @@
+# Ignore virtual environments
+venv/
+.env
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# SQLite DB files (optional)
+*.db
+
+# Logs
+*.log
